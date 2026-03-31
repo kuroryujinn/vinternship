@@ -4,11 +4,6 @@ author: Tanmay Chakraborty
 vinternship_id: tanmay.chakraborty2024.1@iemedu.in
 ---
 
-Author: [Tanmay Chakraborty](https://www.linkedin.com/in/tanmay---chakraborty/){:target="_blank"}
-
-LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/posts/tanmay---chakraborty_hi-everyone-do-go-through-my-first-article-ugcPost-7444378350653190144-trPE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFC1MEEByIJjgARS9h7BCwve9fJJawCFuCA/){:target="_blank"}
-
----
 
 # Five weeks ago, I received an email.
 An opportunity to intern and learn through ViBe — the virtual internship platform by IIT Ropar. I didn't know then how much this one email would change the way I think about learning itself.
@@ -46,6 +41,13 @@ The case studies — almost there. 🔄
 The project — being prepared for, with everything this journey has built in me. 🚀
 Five weeks in, and I'm not the same person who opened that email. The code is just one part of it. The bigger shift has been in how I learn, how I show up, and how I think.
 Grateful for this opportunity. Grateful for every mentor, every quiz, every live session, and every moment of confusion that eventually turned into clarity.
+
+---
+
+Author: [Tanmay Chakraborty](https://www.linkedin.com/in/tanmay---chakraborty/){:target="_blank"}
+
+LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/posts/tanmay---chakraborty_hi-everyone-do-go-through-my-first-article-ugcPost-7444378350653190144-trPE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFC1MEEByIJjgARS9h7BCwve9fJJawCFuCA/){:target="_blank"}
+
 This is just the beginning. 🙏
 Interning at ViBe, IIT Ropar | MERN Stack | Building, learning, and growing every day
 If you've been part of the ViBe journey or are curious about it — let's connect! Drop your thoughts in the comments 👇
